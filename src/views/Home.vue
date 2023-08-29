@@ -25,7 +25,7 @@
            Welcome To
             <span class="my-1 inline-block border-b-8 border-white bg-orange-400 px-4 font-bold text-white">senaStore</span>
           </h2>
-          <p class="text-base text-gray-400">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque it.</p>
+          <p class="text-base text-gray-400">Menyediakan berbagai macam produk yang cocok untuk kamu!!</p>
         </div>
         <div class="mt-10 flex flex-col items-center md:flex-row">
           <a href="/login" class="mb-3 inline-flex h-12 w-full items-center justify-center rounded bg-blue-700 px-6 font-medium tracking-wide text-white shadow-md transition md:mr-4 md:mb-0 md:w-auto focus:outline-none hover:bg-blue-800">Buy Now </a>

@@ -47,7 +47,7 @@ const routes = [
         component: SingleProduct,
     },
     {
-        path: "/kontak",
+        path: "/contact",
         name: "Contact",
         component: Contact,
     },

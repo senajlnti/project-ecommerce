@@ -30,7 +30,7 @@
           <p class="mb-4">Weekend: Closed</p>
           <p class="mb-4">
             Email:
-            <a href="#" class="font-semibold underline">support@apps.io</a>
+            <a href="#" class="font-semibold underline">senaStore@gmail.com</a>
           </p>
           <p class="mb-4">
             Phone:

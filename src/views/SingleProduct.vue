@@ -141,11 +141,11 @@
         <div class="mt-3 flex select-none flex-wrap items-center gap-1">
           <label class="">
             <input type="radio" name="subscription" value="4 Months" class="peer sr-only" />
-            <p class="peer-checked:bg-black peer-checked:text-white rounded-lg border border-black px-6 py-2 font-bold">white</p>
+            <p class="peer-checked:bg-black peer-checked:text-white rounded-lg border border-black px-6 py-2 font-bold">Black</p>
           </label>
           <label class="">
             <input type="radio" name="subscription" value="8 Months" class="peer sr-only" checked />
-            <p class="peer-checked:bg-black peer-checked:text-white rounded-lg border border-black px-6 py-2 font-bold">black</p>
+            <p class="peer-checked:bg-black peer-checked:text-white rounded-lg border border-black px-6 py-2 font-bold">White</p>
           </label>
           <label class="">
             <input type="radio" name="subscription" value="12 Months" class="peer sr-only" />
